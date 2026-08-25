@@ -1,5 +1,5 @@
 :root{
-    --maroon:#5C0F1F; --maroon2:#7A1B2E; --beige:#E7D3AC; --cream:#FBF3E3;
+    --maroon:#5c1e0f; --maroon2:#7A1B2E; --beige:#E7D3AC; --cream:#FBF3E3;
     --gold:#C9A227; --gold-light:#E6C158; --ink:#2A140C;
   }
   *{box-sizing:border-box; margin:0; padding:0;}
@@ -201,7 +201,7 @@
 
   footer{
     background:var(--maroon); padding:0 6vw 3rem; text-align:center;
-    font-family:'Cormorant Garamond'; font-style:italic; font-size:.9rem; color:rgba(251,243,227,.6);
+    font-family:'Cormorant Garamond'; font-style:italic; font-size:1.9rem; color:rgba(223, 220, 218, 0.6);
   }
 
   @media (prefers-reduced-motion: reduce){ *{ animation:none !important; transition:none !important; } }
